@@ -1,4 +1,4 @@
-# C Programming Practices (Batch 3.1)
+# C Programming 2022
 
 This repository includes hands-on C programming exercises developed for students of **Batch 3.1** at *Albukhary International University (AIU)*. It is designed to strengthen foundational knowledge in problem-solving and programming through structured module-wise tasks.
 
